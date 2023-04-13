@@ -355,7 +355,7 @@ function generateMainMenuButtons(inGame){
                 var accounts = await web3.eth.getAccounts(); // get all connected accounts
                 account = accounts[0];
                 await localStorage.setItem('account',account)
-                // await sessionStorage.setItem('isConnected',true)
+                await sessionStorage.setItem('isConnected',true)
                 await getAssets(account)
                 GetAssets = await localStorage.getItem('tokens').split(',')
                 // let TokenIds = []
