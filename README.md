@@ -1,11 +1,11 @@
 <h1>Classic-Pool-Game</h1>
-<!-- <small>© Chen Shmilovich - 2018.</small> -->
+<small>© Chen Shmilovich - 2018.</small>
 <br>
 
 <hr>
 
-<!-- **A Typescript remake is now available** [here](https://github.com/henshmi/Classic-8-Ball-Pool).  
-**Same functionality with better and more readable code.** -->
+**A Typescript remake is now available** [here](https://github.com/AkashMaher/8ballpool-game).  
+**Same functionality with better and more readable code.**
 
 <hr>
 
@@ -26,10 +26,10 @@ Have fun, and good luck!
 * Aim by moving the mouse.<br>
 
 <h3>Demo:</h3>
-https://henshmi.github.io/Classic-Pool-Game/
+https://8ballpool-game.vercel.app/
 
 <h3>Screenshots:</h3>
-<img src="https://image.ibb.co/b9HT6x/screenshots.jpg" style="width: 10px;"></img>
+<img src="https://image.ibb.co/b9HT6x/screenshots.jpg" ></img>
 
 <h3>Credits:</h3>
 * Building JavaScript Games by Arjan Egges (Apress, 2014):<br>
