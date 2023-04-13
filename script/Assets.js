@@ -55,11 +55,18 @@ Game.loadAssets = function () {
     sprites.backgroundBtn2 = loadSprite('btn_background2.png')
     sprites.backgroundBtn3 = loadSprite('btn_background3.png')
     sprites.backgroundBtn4 = loadSprite('btn_background4.png')
+    sprites.backgroundBtn5 = loadSprite('btn_background5.png')
+    sprites.backgroundBtn6 = loadSprite('btn_background6.png')
 
     sprites.stick1 = loadSprite('spr_stick1.png')
     sprites.stick2 = loadSprite('spr_stick2.png')
     sprites.stick3 = loadSprite('spr_stick3.png')
     sprites.stick4 = loadSprite('spr_stick4.png')
+    sprites.stick5 = loadSprite('spr_stick5.png')
+    sprites.stick6 = loadSprite('spr_stick6.png')
+    sprites.stick7 = loadSprite('spr_stick7.png')
+    sprites.stick8 = loadSprite('spr_stick8.png')
+    sprites.stick9 = loadSprite('spr_stick9.png')
 
     sounds.side = loadSound("Side.wav");
     sounds.ballsCollide = loadSound("BallsCollide.wav");
