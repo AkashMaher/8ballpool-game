@@ -6,7 +6,7 @@ let account,assets,isConnected,stickAsset,GetAssets
     toastr.options.closeMethod = 'slideUp';
     toastr.options.preventDuplicates= true;
     toastr.options.preventOpenDuplicates= true;
-const contract = '0xbfb3C158fBA79e712c9C1a9f0fdb7a48edC05F7B'
+const contract = '0x974a22d70f2cc9023fa334ab1b11055491d47b10'
 
 function generateMainMenuLabels(headerText){
 
@@ -212,7 +212,7 @@ function generateMainMenuButtons(inGame){
     async function getAssets(account) {
         // console.log(account)
         
-        let path = `https://testnets-api.gamestoweb3.com/nft/get-user-1155-assets-by-collection/${account}/${contract}`
+        let path = `https://api.gamestoweb3.com/nft/get-user-1155-assets-by-collection/${account}/${contract}`
         await axios.get(path).then(
         async (response) => {
             var result = response.data;
