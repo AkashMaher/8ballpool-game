@@ -4,8 +4,8 @@
 
 <hr>
 
-**A Typescript remake is now available** [here](https://github.com/henshmi/Classic-8-Ball-Pool).  
-**Same functionality with better and more readable code.**
+<!-- **A Typescript remake is now available** [here](https://github.com/henshmi/Classic-8-Ball-Pool).  
+**Same functionality with better and more readable code.** -->
 
 <hr>
 
