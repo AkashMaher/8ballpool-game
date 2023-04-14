@@ -251,7 +251,7 @@ function generateMainMenuButtons(inGame){
                 sprites.stick2, 
                 new Vector2(200,220),
                 function(){
-                    if(!GetAssets.includes("5")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                    if(!GetAssets.includes("5")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                     localStorage.setItem(`${account}-stick`, 'spr_stick2.png')
                     location.reload();
                 },
@@ -263,7 +263,7 @@ function generateMainMenuButtons(inGame){
                 sprites.stick3, 
                 new Vector2(200,290),
                 function(){
-                    if(!GetAssets.includes("6")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                    if(!GetAssets.includes("6")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                     localStorage.setItem(`${account}-stick`, 'spr_stick3.png')
                     location.reload();
                 },
@@ -275,7 +275,7 @@ function generateMainMenuButtons(inGame){
                 sprites.stick4, 
                 new Vector2(200,360),
                 function(){
-                    if(!GetAssets.includes("7")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                    if(!GetAssets.includes("7")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                     localStorage.setItem(`${account}-stick`, 'spr_stick4.png')
                     location.reload();
                 },
@@ -287,7 +287,7 @@ function generateMainMenuButtons(inGame){
                 sprites.stick5, 
                 new Vector2(200,430),
                 function(){
-                    if(!GetAssets.includes("8")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                    if(!GetAssets.includes("8")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                     localStorage.setItem(`${account}-stick`, 'spr_stick4.png')
                     location.reload();
                 },
@@ -299,7 +299,7 @@ function generateMainMenuButtons(inGame){
                 sprites.stick6, 
                 new Vector2(200,500),
                 function(){
-                    if(!GetAssets.includes("9")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                    if(!GetAssets.includes("9")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                     localStorage.setItem(`${account}-stick`, 'spr_stick4.png')
                     location.reload();
                 },
@@ -311,7 +311,7 @@ function generateMainMenuButtons(inGame){
                 sprites.stick7, 
                 new Vector2(200,570),
                 function(){
-                    if(!GetAssets.includes("10")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                    if(!GetAssets.includes("10")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                     localStorage.setItem(`${account}-stick`, 'spr_stick4.png')
                     location.reload();
                 },
@@ -323,7 +323,7 @@ function generateMainMenuButtons(inGame){
                 sprites.stick8, 
                 new Vector2(200,630),
                 function(){
-                    if(!GetAssets.includes("11")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                    if(!GetAssets.includes("11")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                     localStorage.setItem(`${account}-stick`, 'spr_stick4.png')
                     location.reload();
                 },
@@ -335,7 +335,7 @@ function generateMainMenuButtons(inGame){
                 sprites.stick9, 
                 new Vector2(200,700),
                 function(){
-                    if(!GetAssets.includes("12")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                    if(!GetAssets.includes("12")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                     localStorage.setItem(`${account}-stick`, 'spr_stick4.png')
                     location.reload();
                 },
@@ -391,7 +391,7 @@ function generateMainMenuButtons(inGame){
                         sprites.backgroundBtn2, 
                         new Vector2(200,350),
                         function(){
-                            if(!GetAssets.includes("0")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                            if(!GetAssets.includes("0")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                             localStorage.setItem(`${account}-bg`, 'spr_background2.png')
                             Game.mainMenu.labels = generateMainMenuLabels("Select Stick");
 
@@ -407,7 +407,7 @@ function generateMainMenuButtons(inGame){
                         sprites.backgroundBtn3, 
                         new Vector2(200,550),
                         function(){
-                            if(!GetAssets.includes("1")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                            if(!GetAssets.includes("1")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                             localStorage.setItem(`${account}-bg`, 'spr_background3.png')
                             Game.mainMenu.labels = generateMainMenuLabels("Select Stick");
 
@@ -423,7 +423,7 @@ function generateMainMenuButtons(inGame){
                         sprites.backgroundBtn4, 
                         new Vector2(500,150),
                         function(){
-                            if(!GetAssets.includes("2")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                            if(!GetAssets.includes("2")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                             localStorage.setItem(`${account}-bg`, 'spr_background4.png')
                             Game.mainMenu.labels = generateMainMenuLabels("Select Stick");
 
@@ -439,7 +439,7 @@ function generateMainMenuButtons(inGame){
                         sprites.backgroundBtn5, 
                         new Vector2(500,350),
                         function(){
-                            if(!GetAssets.includes("3")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                            if(!GetAssets.includes("3")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                             localStorage.setItem(`${account}-bg`, 'spr_background5.png')
                             Game.mainMenu.labels = generateMainMenuLabels("Select Stick");
 
@@ -455,7 +455,7 @@ function generateMainMenuButtons(inGame){
                         sprites.backgroundBtn6, 
                         new Vector2(500,550),
                         function(){
-                            if(!GetAssets.includes("4")) return toastr.info(`You don't have own the asset, <a href="https://testnets.gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
+                            if(!GetAssets.includes("4")) return toastr.info(`You don't have own the asset, <a href="https://gamestoweb3.com/collections/${contract}" target="_blank" style="color:yellow;">Buy on Gamestoweb3</a>`, 'Info', { timeOut: 10 * 1000, enableHtml: true, tapToDismiss: false })
                             localStorage.setItem(`${account}-bg`, 'spr_background6.png')
                             Game.mainMenu.labels = generateMainMenuLabels("Select Stick");
 
