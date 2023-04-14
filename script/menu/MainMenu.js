@@ -6,7 +6,7 @@ let account,assets,isConnected,stickAsset,GetAssets
     toastr.options.closeMethod = 'slideUp';
     toastr.options.preventDuplicates= true;
     toastr.options.preventOpenDuplicates= true;
-const contract = '0x974a22d70f2cc9023fa334ab1b11055491d47b10'
+const contract = '0x974a22d70f2cC9023FA334Ab1b11055491D47b10'
 
 function generateMainMenuLabels(headerText){
 
